@@ -128,8 +128,8 @@ button {
 body.dark-theme {
   --title-color: hsl(355, 4%, 95%);
   --text-color: hsl(355, 4%, 75%);
-  --body-color: hsl(0, 0%, 0%);
-  --container-color: hsl(0, 0%, 0%);
+  --body-color: hsl(210, 11%, 7%);
+  --container-color: hsl(210, 11%, 7%);
 }
 
 /*========== 
@@ -652,7 +652,7 @@ body.dark-theme {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: hsl(355, 32%, 17%);
+  background: hsl(0, 0%, 12%);
   border-radius: 1rem;
 }
 
