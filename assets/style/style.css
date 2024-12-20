@@ -128,8 +128,8 @@ button {
 body.dark-theme {
   --title-color: hsl(355, 4%, 95%);
   --text-color: hsl(355, 4%, 75%);
-  --body-color: hsl(355, 20%, 12%);
-  --container-color: hsl(355, 16%, 16%);
+  --body-color: hsl(0, 0%, 0%);
+  --container-color: hsl(0, 0%, 0%);
 }
 
 /*========== 
