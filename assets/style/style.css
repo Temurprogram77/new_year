@@ -9,7 +9,7 @@
   /*Color mode HSL(hue, saturation, lightness)*/
   --first-color: hsl(355, 70%, 54%);
   --first-color-alt: hsl(355, 66%, 50%);
-  --title-color: hsl(355, 4%, 15%);
+  --title-color: hsl(0, 0%, 0%);
   --text-color: hsl(355, 4%, 35%);
   --text-color-light: hsl(355, 4%, 55%);
   --body-color: #f2f2f2;
